@@ -2,6 +2,7 @@
 
 #include <cassert>
 #include <initializer_list>
+#include <math.h>
 
 /* generic n-dimensional vector class.
  * the vector class can have arbitrary size.
